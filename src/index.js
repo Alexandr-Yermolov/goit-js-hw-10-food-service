@@ -1,2 +1,3 @@
 import './sass/main.scss';
-import './js/theme';
+import './js/changeTheme';
+import './js/crateElement';
